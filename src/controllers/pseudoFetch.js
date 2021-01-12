@@ -1,6 +1,6 @@
-let reqData = require('../../pseodoFetch/req.json');
-let buhData = require('../../pseodoFetch/buh.json');
-let analyticsData = require('../../pseodoFetch/analytics.json');
+let reqData = require('../../pseodoFetchData/req.json');
+let buhData = require('../../pseodoFetchData/buh.json');
+let analyticsData = require('../../pseodoFetchData/analytics.json');
 
 // редирект на страницу с формой ИНН и ОГРН
 const redirect = (req, res) => {
