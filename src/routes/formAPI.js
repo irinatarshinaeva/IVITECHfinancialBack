@@ -1,6 +1,6 @@
 const express = require('express');
 
-const formController = require('../controllers/pseudoForms');
+const formController = require('../controllers/pseudoFetch');
 
 const router = express.Router();
 
