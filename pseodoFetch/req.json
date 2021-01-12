@@ -1,0 +1,80 @@
+[
+  {
+    "inn": "2308268156",
+    "ogrn": "1192375061152",
+    "focusHref": "https://focus.kontur.ru/entity?query=1192375061152",
+    "UL": {
+      "kpp": "230801001",
+      "okpo": "41293416",
+      "okato": "03401364000",
+      "okfs": "16",
+      "oktmo": "03701000001",
+      "okogu": "4210014",
+      "okopf": "12300",
+      "opf": "Общества с ограниченной ответственностью",
+      "legalName": {
+        "short": "ООО \"ГРИНПАРК\"",
+        "full": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГРИНПАРК\"",
+        "readable": "ООО \"Гринпарк\"",
+        "date": "2019-08-26"
+      },
+      "legalAddress": {
+        "parsedAddressRF": {
+          "zipCode": "350051",
+          "kladrCode": "230000010000480",
+          "regionCode": "23",
+          "regionName": {
+            "topoShortName": "край",
+            "topoFullName": "край",
+            "topoValue": "Краснодарский"
+          },
+          "city": {
+            "topoShortName": "г",
+            "topoFullName": "город",
+            "topoValue": "Краснодар"
+          },
+          "street": {
+            "topoShortName": "ул",
+            "topoFullName": "улица",
+            "topoValue": "Нефтяная"
+          },
+          "house": {
+            "topoShortName": "дом",
+            "topoFullName": "дом",
+            "topoValue": "14"
+          },
+          "flat": {
+            "topoShortName": "оф",
+            "topoFullName": "офис",
+            "topoValue": "1"
+          },
+          "houseRaw": "ДОМ 14",
+          "flatRaw": "ОФИС 1"
+        },
+        "date": "2019-08-26",
+        "firstDate": "2019-08-26"
+      },
+      "status": {
+        "statusString": "Действующее"
+      },
+      "registrationDate": "2019-08-26",
+      "heads": [
+        {
+          "fio": "Грехов Артем Владимирович",
+          "innfl": "233404191329",
+          "position": "Директор",
+          "date": "2019-08-26",
+          "firstDate": "2019-08-26"
+        }
+      ],
+      "history": {}
+    },
+    "briefReport": {
+      "summary": {
+        "greenStatements": true,
+        "yellowStatements": true
+      }
+    },
+    "contactPhones": {}
+  }
+]
