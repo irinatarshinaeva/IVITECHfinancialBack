@@ -18,8 +18,8 @@
 
 ### Ввод ИНН и ОГРН:
 
-![Form](https://github.com/irinatarshinaeva/IVITECHfinancialBack/blob/master/public/assests/screenshots/form.png 'Форма')
+![Form](https://github.com/irinatarshinaeva/IVITECHfinancialBack/blob/master/public/assets/screenshots/form.png 'Форма')
 
 ### Резултат с информацией:
 
-![Result](https://github.com/irinatarshinaeva/IVITECHfinancialBack/blob/master/public/assests/screenshots/result.png 'Результат')
+![Result](https://github.com/irinatarshinaeva/IVITECHfinancialBack/blob/master/public/assets/screenshots/result.png 'Результат')
