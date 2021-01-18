@@ -18,7 +18,7 @@
 
 ### ССылка на деплой проектаж:
 
-ivitech-financial.herokuapp
+https://ivitech-financial.herokuapp
 
 ### Ввод ИНН и ОГРН:
 
