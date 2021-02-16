@@ -10,6 +10,10 @@
 - CSS
 - Контур.Фокус API
 
+### Ссылка на деплой проекта:
+
+https://ivitech-financial-back.herokuapp.com
+
 ### Запуск проекта:
 
 1. Перейти в корневой каталог проекта (IVITECHfinancialBack)
