@@ -1,6 +1,6 @@
-# IVITECHfinancialBack
+# The_Ivitech_Financial
 
-"IVITECHfinancialBack" - ресурс, который позволяет, зная ИНН и ОГРН юридического лица, узнать насколько он пригоден для предоставления ему частых услуг.
+"The_Ivitech_Financial" - ресурс, который позволяет, зная ИНН и ОГРН юридического лица, узнать насколько он пригоден для предоставления ему частых услуг.
 
 ### Стек технологий используемых в проекте:
 
@@ -22,8 +22,8 @@ https://ivitech-financial-back.herokuapp.com
 
 ### Ввод ИНН и ОГРН:
 
-![Form](https://github.com/irinatarshinaeva/IVITECHfinancialBack/blob/master/public/assets/screenshots/form.png 'Форма')
+![Form](https://github.com/irinatarshinaeva/The_Ivitech_Financial/blob/master/public/assets/screenshots/form.png 'Форма')
 
 ### Резултат с информацией:
 
-![Result](https://github.com/irinatarshinaeva/IVITECHfinancialBack/blob/master/public/assets/screenshots/result.png 'Результат')
+![Result](https://github.com/irinatarshinaeva/The_Ivitech_Financial/blob/master/public/assets/screenshots/result.png 'Результат')
