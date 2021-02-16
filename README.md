@@ -20,6 +20,10 @@ https://ivitech-financial-back.herokuapp.com
 2. Запуск проекта: npm start
 3. Так как ключ доступа к API был утерян вместе с заказчиком, то, пожалуйста, введите именно ИНН - 2308268156, ОГРН - 1192375061152
 
+### Ссылка на деплой проектаж:
+
+https://ivitech-financial.herokuapp
+
 ### Ввод ИНН и ОГРН:
 
 ![Form](https://github.com/irinatarshinaeva/IVITECHfinancialBack/blob/master/public/assets/screenshots/form.png 'Форма')
